@@ -1,0 +1,559 @@
+{
+    "type_matchups": [
+        {
+            "attacker": "normal",
+            "defender": "rock",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "normal",
+            "defender": "steel",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "fire",
+            "defender": "fire",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "fire",
+            "defender": "water",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "fire",
+            "defender": "grass",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "fire",
+            "defender": "ice",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "fire",
+            "defender": "bug",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "fire",
+            "defender": "rock",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "fire",
+            "defender": "dragon",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "fire",
+            "defender": "steel",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "water",
+            "defender": "fire",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "water",
+            "defender": "water",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "water",
+            "defender": "grass",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "water",
+            "defender": "ground",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "water",
+            "defender": "rock",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "water",
+            "defender": "dragon",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "electric",
+            "defender": "water",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "electric",
+            "defender": "electric",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "electric",
+            "defender": "grass",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "electric",
+            "defender": "ground",
+            "effectiveness": 0
+        },
+        {
+            "attacker": "electric",
+            "defender": "flying",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "electric",
+            "defender": "dragon",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "grass",
+            "defender": "fire",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "grass",
+            "defender": "water",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "grass",
+            "defender": "grass",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "grass",
+            "defender": "poison",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "grass",
+            "defender": "ground",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "grass",
+            "defender": "flying",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "grass",
+            "defender": "bug",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "grass",
+            "defender": "rock",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "grass",
+            "defender": "dragon",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "grass",
+            "defender": "steel",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "ice",
+            "defender": "water",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "ice",
+            "defender": "grass",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "ice",
+            "defender": "ice",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "ice",
+            "defender": "ground",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "ice",
+            "defender": "flying",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "ice",
+            "defender": "dragon",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "ice",
+            "defender": "steel",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "ice",
+            "defender": "fire",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "fighting",
+            "defender": "normal",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "fighting",
+            "defender": "ice",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "fighting",
+            "defender": "poison",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "fighting",
+            "defender": "flying",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "fighting",
+            "defender": "psychic",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "fighting",
+            "defender": "bug",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "fighting",
+            "defender": "rock",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "fighting",
+            "defender": "dark",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "fighting",
+            "defender": "steel",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "poison",
+            "defender": "grass",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "poison",
+            "defender": "poison",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "poison",
+            "defender": "ground",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "poison",
+            "defender": "rock",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "poison",
+            "defender": "ghost",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "poison",
+            "defender": "steel",
+            "effectiveness": 0
+        },
+        {
+            "attacker": "ground",
+            "defender": "fire",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "ground",
+            "defender": "electric",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "ground",
+            "defender": "grass",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "ground",
+            "defender": "poison",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "ground",
+            "defender": "flying",
+            "effectiveness": 0
+        },
+        {
+            "attacker": "ground",
+            "defender": "bug",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "ground",
+            "defender": "rock",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "ground",
+            "defender": "steel",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "flying",
+            "defender": "electric",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "flying",
+            "defender": "grass",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "flying",
+            "defender": "fighting",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "flying",
+            "defender": "bug",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "flying",
+            "defender": "rock",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "flying",
+            "defender": "steel",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "psychic",
+            "defender": "dark",
+            "effectiveness": 0
+        },
+        {
+            "attacker": "psychic",
+            "defender": "fighting",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "psychic",
+            "defender": "poison",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "psychic",
+            "defender": "psychic",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "psychic",
+            "defender": "steel",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "bug",
+            "defender": "fire",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "bug",
+            "defender": "grass",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "bug",
+            "defender": "fighting",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "bug",
+            "defender": "poison",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "bug",
+            "defender": "flying",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "bug",
+            "defender": "psychic",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "bug",
+            "defender": "ghost",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "bug",
+            "defender": "dark",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "bug",
+            "defender": "steel",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "rock",
+            "defender": "fire",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "rock",
+            "defender": "ice",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "rock",
+            "defender": "fighting",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "rock",
+            "defender": "ground",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "rock",
+            "defender": "flying",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "rock",
+            "defender": "bug",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "rock",
+            "defender": "steel",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "ghost",
+            "defender": "normal",
+            "effectiveness": 0
+        },
+        {
+            "attacker": "ghost",
+            "defender": "psychic",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "ghost",
+            "defender": "dark",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "ghost",
+            "defender": "steel",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "ghost",
+            "defender": "ghost",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "dragon",
+            "defender": "dragon",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "dragon",
+            "defender": "steel",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "dark",
+            "defender": "fighting",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "dark",
+            "defender": "psychic",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "dark",
+            "defender": "ghost",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "dark",
+            "defender": "dark",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "dark",
+            "defender": "steel",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "steel",
+            "defender": "fire",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "steel",
+            "defender": "water",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "steel",
+            "defender": "electric",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "steel",
+            "defender": "ice",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "steel",
+            "defender": "rock",
+            "effectiveness": 2
+        },
+        {
+            "attacker": "steel",
+            "defender": "steel",
+            "effectiveness": 0.5
+        },
+        {
+            "attacker": "normal",
+            "defender": "ghost",
+            "effectiveness": 0
+        },
+        {
+            "attacker": "fighting",
+            "defender": "ghost",
+            "effectiveness": 0
+        },
+        {
+            "attacker": "psychic",
+            "defender": "dark",
+            "effectiveness": 0
+        }
+    ]
+}

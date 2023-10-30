@@ -1,0 +1,40 @@
+{
+    "fights": [
+        {
+            "area": "Route 1",
+            "name": "Youngster JOEY",
+            "team": [
+                {
+                    "ivs": {
+                        "atk": 15,
+                        "def": 15,
+                        "hp": 15,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "oranberry",
+                    "level": 8,
+                    "moves": [
+                        "quick-attack",
+                        "pursuit",
+                        "tackle",
+                        "hp-fire"
+                    ],
+                    "name": "ratatta"
+                },
+                {
+                    "item": "lumberry",
+                    "level": 9,
+                    "moves": [
+                        "iron-tail",
+                        "body-slam",
+                        "earthquake",
+                        "milk-drink"
+                    ],
+                    "name": "miltank"
+                }
+            ]
+        }
+    ]
+}

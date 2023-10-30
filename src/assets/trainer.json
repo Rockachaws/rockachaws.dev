@@ -1,0 +1,72 @@
+{
+    "trainer": [
+        {
+            "name": "Rockachaws",
+            "box": [
+                {
+                    "ivs": {
+                        "atk": 15,
+                        "def": 15,
+                        "hp": 12,
+                        "spa": 31,
+                        "spd": 29,
+                        "spe": 19
+                    },
+                    "nature": "modest",
+                    "ability": "torrent",
+                    "item": "oranberry",
+                    "level": 8,
+                    "moves": [
+                        "water_pulse",
+                        "pound",
+                        "bide",
+                        "assurance"
+                    ],
+                    "name": "piplup"
+                },
+                {
+                    "ivs": {
+                        "atk": 15,
+                        "def": 1,
+                        "hp": 30,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "nature": "modest",
+                    "ability": "keen_eye",
+                    "item": "silk_scarf",
+                    "level": 11,
+                    "moves": [
+                        "wing_attack",
+                        "tackle",
+                        "sand_attack",
+                        "pursuit"
+                    ],
+                    "name": "starly"
+                },
+                {
+                    "ivs": {
+                        "atk": 15,
+                        "def": 11,
+                        "hp": 15,
+                        "spa": 15,
+                        "spd": 31,
+                        "spe": 31
+                    },
+                    "nature": "modest",
+                    "ability": "thick_fat",
+                    "item": "lumberry",
+                    "level": 9,
+                    "moves": [
+                        "iron-tail",
+                        "body-slam",
+                        "earthquake",
+                        "milk-drink"
+                    ],
+                    "name": "miltank"
+                }
+            ]
+        }
+    ]
+}
